@@ -1,0 +1,14 @@
+layout_spectrum: 0.0103432
+typography_spectrum: 0.344086
+color:
+  saturation: 0.530466
+  brandStrength: 0.6111111
+  lightness: 0.7096774
+  brandColors:
+    - '#FFFBFA'
+    - '#FFDAAF'
+    - '#C1B0A8'
+    - '#979085'
+    - '#395756'
+  rhythmicContrast: 0.2903226
+name: Australiarises
