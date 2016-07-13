@@ -1,14 +1,26 @@
-layout_spectrum: 0.0103432
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.344086
 color:
   saturation: 0.530466
   brandStrength: 0.6111111
-  lightness: 0.7096774
+  rhythmicContrast: 0.2903226
   brandColors:
     - '#FFFBFA'
     - '#FFDAAF'
     - '#C1B0A8'
     - '#979085'
     - '#395756'
-  rhythmicContrast: 0.2903226
+  lightness: 0.7096774
+layout_spectrum: 0.1594982
 name: Australiarises
